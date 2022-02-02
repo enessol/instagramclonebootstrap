@@ -1,2 +1,2 @@
-# instagramclonebootstrap
-This is the updated version of the Instagram Clone by Kodluyoruz.
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
